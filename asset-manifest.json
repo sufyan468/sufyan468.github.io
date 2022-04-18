@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.db01cf47.chunk.css",
-    "main.js": "/static/js/main.4e4ab32e.chunk.js",
-    "main.js.map": "/static/js/main.4e4ab32e.chunk.js.map",
+    "main.js": "/static/js/main.1c6e4353.chunk.js",
+    "main.js.map": "/static/js/main.1c6e4353.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66cc6240.js",
     "runtime-main.js.map": "/static/js/runtime-main.66cc6240.js.map",
     "static/js/2.c9356c7e.chunk.js": "/static/js/2.c9356c7e.chunk.js",
     "static/js/2.c9356c7e.chunk.js.map": "/static/js/2.c9356c7e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.db01cf47.chunk.css.map": "/static/css/main.db01cf47.chunk.css.map",
-    "static/js/2.c9356c7e.chunk.js.LICENSE.txt": "/static/js/2.c9356c7e.chunk.js.LICENSE.txt"
+    "static/js/2.c9356c7e.chunk.js.LICENSE.txt": "/static/js/2.c9356c7e.chunk.js.LICENSE.txt",
+    "static/media/Mern-Stack.e817da06.png": "/static/media/Mern-Stack.e817da06.png",
+    "static/media/Profile.31695f35.jpg": "/static/media/Profile.31695f35.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.66cc6240.js",
     "static/js/2.c9356c7e.chunk.js",
     "static/css/main.db01cf47.chunk.css",
-    "static/js/main.4e4ab32e.chunk.js"
+    "static/js/main.1c6e4353.chunk.js"
   ]
 }
